@@ -14,3 +14,4 @@
 
 ### Please Setup React-Native app
 "# MagicDetect" 
+"# MagicDetect" 
